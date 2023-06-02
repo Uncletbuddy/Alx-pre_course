@@ -1,4 +1,2 @@
-HEAD
 #!/bin/bash
-"The school is open for student who survive hard things!"
-update_script
+echo "The school is open!"

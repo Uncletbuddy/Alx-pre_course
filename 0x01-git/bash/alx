@@ -1,3 +1,2 @@
 #!/bin/bash
-HEAD
-Alx School is so cool! Hard and interesting!
+echo "ALX School"
